@@ -6,10 +6,6 @@ import (
 
 func FibonacciArray(x []int) []int {
 
-	if len(x) < 2 {
-		return []int{}
-	}
-
 	fibseries := []int{x[0], x[1]}
 
 	for i := 2; i < len(x); i++ {
