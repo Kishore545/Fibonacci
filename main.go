@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/Kishore545/pop"
 )
 
 func FibonacciArray(x []int) []int {
@@ -20,4 +22,9 @@ func main() {
 	fibseries := FibonacciArray(x)
 
 	fmt.Println("Generated Fibonacci Series:", fibseries)
+	y := pop.Bark()
+	z := pop.Barks()
+
+	fmt.Println(y)
+	fmt.Println(z)
 }
