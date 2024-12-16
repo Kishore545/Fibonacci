@@ -6,13 +6,13 @@ import (
 
 func FibonacciArray(x []int) []int {
 
-	fibseries := []int{x[0], x[1]}
+	fibSeries := []int{x[0], x[1]}
 
 	for i := 2; i < len(x); i++ {
-		next := fibseries[i-1] + fibseries[i-2]
-		fibseries = append(fibseries, next)
+		next := fibSeries[i-1] + fibSeries[i-2]
+		fibSeries = append(fibSeries, next)
 	}
-	return fibseries
+	return fibSeries
 }
 
 func main() {
