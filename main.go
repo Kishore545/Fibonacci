@@ -27,4 +27,10 @@ func main() {
 
 	fmt.Println(y)
 	fmt.Println(z)
+
+	a := pop.Bigbark()
+	b := pop.Bigbarks()
+
+	fmt.Println(a)
+	fmt.Println(b)
 }

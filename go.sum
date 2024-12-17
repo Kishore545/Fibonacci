@@ -1,2 +1,4 @@
-github.com/Kishore545/pop v0.0.0-20241216091701-de4693883cfa h1:ifBPKYHtf3sA+tIy4pfWNKt6b+13YaKYGVwlJHyXQs4=
-github.com/Kishore545/pop v0.0.0-20241216091701-de4693883cfa/go.mod h1:bdtS0ui/jakCovH32ljOsY93wBeZGbQZw3MfWqjJmas=
+github.com/Kishore545/Dol v0.0.0-20241217052535-603f937f2134 h1:PZyLuNla+R9grfsJVZyn9dLLtgE7vRi7dex9HQVN+RE=
+github.com/Kishore545/Dol v0.0.0-20241217052535-603f937f2134/go.mod h1:PJS7B2w6fL2wcYnNdbP7Y3qEve5HnenzDMmIenjRp5M=
+github.com/Kishore545/pop v1.3.1-0.20241217053756-f9c084d38133 h1:nXqKDMMWjDyK/eVbtEKRf8lqvOzoMz1q32uIpX2pwt4=
+github.com/Kishore545/pop v1.3.1-0.20241217053756-f9c084d38133/go.mod h1:CvJLLNdQgAtkj4iaMEk8neNc6dzpWqvfHmjznlYThXs=
